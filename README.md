@@ -41,7 +41,9 @@ This approach ensures robustness against:
 ## Notebook Demonstration
 An interactive notebook illustrating the full pipeline and visual outputs is provided:
 
-📓 `notebooks/track_fic.ipynb`
+📓 [Local Notebook](notebooks/track_fic.ipynb)  
+☁️ [Google Colab Notebook](https://colab.research.google.com/drive/1NIusoZoBfqAmzBz_ZMULX7Fw9YAvaTXD?usp=sharing)
+
 
 (Originally prototyped in Google Colab and adapted for local execution.)
 
