@@ -54,9 +54,8 @@ An interactive notebook illustrating the full pipeline and visual outputs is pro
 1. Create a virtual environment  
 2. Install dependencies:
 3. Place your input video inside:
-4. Run the pipeline:
-5. The processed video with speed annotations
-will be saved.
+4. Run the pipeline.
+5. The processed video with speed annotations will be saved.
 
 
 
